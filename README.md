@@ -1,4 +1,9 @@
 # PCA
+
+This repository is aimed to deepen my knowledge about PCA. The reference notebook is used to follow other's coding.
+
+After that, another data set will be used. It aims to use the technique I have learnt and apply it on the data set.
+
 ------------------------------
 Reference:
 
