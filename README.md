@@ -4,6 +4,7 @@ This repository is aimed to deepen my knowledge about dimension reduction techni
 
 After that, another data set will be used. It aims to use the technique I have learnt and apply it on the data set.
 
+Notice: 3D graph is not able to be shown in git through ploty
 ------------------------------
 Reference:
 
