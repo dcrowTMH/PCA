@@ -11,7 +11,7 @@ After that, another data set will be used. It aims to use the technique I have l
 
 2) Note_Dimension_reduction.ipynb
 - Finished the comparison of t-SNE & UMAP (08/02/2022)
-- Up-comint target: try to investigate other model listed in the beginning of note book
+- Up-comint target: try to investigate other model listed in the beginning of note book (Part 2)
 
 Notice: 3D graph is not able to be shown in git through ploty
 ------------------------------
