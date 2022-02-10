@@ -4,7 +4,7 @@ This repository is aimed to deepen my knowledge about dimension reduction techni
 
 After that, another data set will be used. It aims to use the technique I have learnt and apply it on the data set.
 
-
+### Progress:
 1) PCA_learning_reference.ipynb
 - Finished following the code from the reference (10/02/2022)
 - Up-coming target: apply the PCA components to other data set (such as house price) and check with the improvement
